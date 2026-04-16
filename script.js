@@ -26,7 +26,7 @@ const projectItems = [
     category: "Game",
     description: "Final project of CS 354P class at UT Austin: a horror game drawing inspiration from the retro, low-poly, PS2 era of games. I worked largely on the UI and interactable cabinets feature of the game.",
     tags: ["Game Design", "Game User Interface", "C++", "Data Structures"],
-    image: "https://cdn.discordapp.com/attachments/1446672250752340002/1493773811718553630/image_2.png?ex=69e030c5&is=69dedf45&hm=add2b403d3a8e67e57573f5e218f31ef8dbc3b08cdfaf2f50cd385ef955328f0"
+    image: "images/maxwell.png"
   },
   // {
   //   title: "Sweet Confectionary",
@@ -40,14 +40,14 @@ const projectItems = [
     category: "Electronic Health Record (EHR) System Prototype",
     description: "An intuitive approach to an Electronic Health Record (EHR) system prototype built using React, allowing users to manage and track patient information, medical history, and appointments.",
     tags: ["React", "EHR System", "Healthcare", "UI/UX Design"],
-    image: "https://media.discordapp.net/attachments/1446672250752340002/1493793582837137481/original.png?ex=69e0432f&is=69def1af&hm=780df29a954f149f6eea9396d000404018e2642c95595e74a02c196c90a98387&=&format=webp&quality=lossless&width=2512&height=1178"
+    image: "images/celesticare.png"
   },
   {
     title: "QuickMaths",
     category: "Chrome Extension",
     description: "A Chrome extension that helps users solve math problems quickly and easily.",
     tags: ["JavaScript", "Chrome Extension", "Math", "UI/UX Design", "API Integration", "Chrome Extension"],
-    image: "https://media.discordapp.net/attachments/1446672250752340002/1493795297208434698/1730931197044.jpg?ex=69e044c8&is=69def348&hm=04d61db3ab66ba8a400f79fbdad27e07c35fc058d4d04affc2c7c54839f23ff6&=&format=webp&width=1884&height=1178"
+    image: "images/qm.jpg"
   },
   {
     title: "Music Collection",
